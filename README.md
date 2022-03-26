@@ -6,5 +6,5 @@
 
 Link para o projeto
 
-vanish-clone-website.netlify.app
+https://vanish-clone-website.netlify.app/
 
